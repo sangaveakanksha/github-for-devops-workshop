@@ -87,3 +87,11 @@ git add gitcommand.txt
  git push origin master
  git remote -v
  history
+
+
+
+
+
+
+
+this is the chages made by me in git
