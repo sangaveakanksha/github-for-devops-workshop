@@ -69,4 +69,21 @@ git mv old.file new.file
 
 	
 
-Rename or move a tracked file
+Rename or move a tracked file git remote add origin https://github.com/sangaveakanksha/github-for-devops-workshop.github
+
+
+git add gitcommand.txt
+ 1838  git status
+ 1839  git commit -m "addidng git command"
+ 1840  ls
+ 1841  ls -l
+ 1842  ls -a
+ 1843  git status
+ 1844  git add testing.py
+ 1845  commit -m " adding testing file"
+ 1846  git commit -m " adding testing file"
+ 1847  git status
+ 1848  git remote add origin https://github.com/sangaveakanksha/github-for-devops-workshop.git
+ 1849  git push origin master
+ 1850  git remote -v
+ 1851  history
