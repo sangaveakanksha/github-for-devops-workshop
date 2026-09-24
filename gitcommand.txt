@@ -1,0 +1,72 @@
+git restore --source=HEAD -- testing.file
+mmand
+
+	
+
+Purpose
+
+git add testing.file
+
+	
+
+Stage one file
+
+git add .
+
+	
+
+Stage changes in the current directory
+
+git commit -m "First commit"
+
+	
+
+Commit staged changes
+
+git log --oneline
+
+	
+
+View compact commit history
+
+git diff
+
+	
+
+View unstaged changes
+
+git diff --staged
+
+	
+
+View staged changes
+
+git restore testing.file
+
+	
+
+Discard unstaged changes to the file
+
+git restore --staged testing.file
+
+	
+
+Unstage the file
+
+git restore --source=HEAD -- testing.file
+
+	
+
+Restore the committed version
+
+git rm testing.file
+
+	
+
+Remove a tracked file and stage the removal
+
+git mv old.file new.file
+
+	
+
+Rename or move a tracked file
